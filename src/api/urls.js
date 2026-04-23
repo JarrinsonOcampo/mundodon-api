@@ -3,4 +3,5 @@ module.exports = {
   searchUrl: 'https://www.mundodonghua.com/search',
   allUrl: 'https://www.mundodonghua.com/',
   watchUrl: 'https://www.mundodonghua.com/ver/',
+  listUrl: 'https://www.mundodonghua.com/lista-donghuas',
 };
